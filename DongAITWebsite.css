@@ -84,6 +84,12 @@ hr{
 .dropdown-menu a:hover{
 	background-color: rgba(195, 216, 195, 0.9)
 }
+.form-group{
+	color:white;
+}
+.form-check{
+	color:white;
+}
 
 
 
