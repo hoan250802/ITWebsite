@@ -73,8 +73,17 @@ hr{
 	color: #517fa4;
 }
 .fa-youtube {
-    color: #bb0000;
-
+	color: #bb0000;
+}
+.Search{
+	padding-left: 48px;
+}
+.dropdown-menu{
+	background-color: rgba(118, 209, 118, 0.9) ;
+}
+.dropdown-menu a:hover{
+	background-color: rgba(195, 216, 195, 0.9)
+}
 
 
 
