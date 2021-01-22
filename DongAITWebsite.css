@@ -13,7 +13,9 @@ html, body{
     color:white !important;
 }
 .navbar li a:hover{
-    color:black !important;
+	color:black !important;
+	background-color:rgba(224, 231, 224, 0.5) ;
+	border-radius: 8px;
 }
 .carousel-inner img{
     width: 100%;
@@ -54,7 +56,10 @@ hr{
 }
 #col2{
     border-left: 2px solid rgb(105, 177, 105, 0.6);
-    border-right: 2px solid rgb(105, 177, 105, 0.6);
+	border-right: 2px solid rgb(105, 177, 105, 0.6);
+}
+#col2 a:hover{
+	background-color:rgba(200, 214, 200, 0.9) ;
 }
 .social{
     font-size: 36px;
@@ -90,6 +95,26 @@ hr{
 .form-check{
 	color:white;
 }
+.videostudent{
+	float: left;
+}
+.col h1{
+	font-size: 32px;
+	border-bottom: 2px solid  rgba(118, 209, 118, 0.9) ;
+	border-bottom-style: dotted ;
+	padding: 10px;
+}
+.col{
+	width: 100%;
+	padding: 12px;
+}
+.col button:hover{
+	background-color:rgba(108, 155, 108, 0.9) ;
+}
+.jumbotron button:hover{
+	background-color:rgba(108, 155, 108, 0.9) ;
+}
+
 
 
 
